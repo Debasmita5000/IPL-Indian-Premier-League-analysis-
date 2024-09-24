@@ -20,6 +20,6 @@ v)Chennai Super Kings and Mumbai Indians lead with 3 titles each, showcasing the
 3.Conclusion:This dashboard provided a comprehensive analysis of IPL matches, offering insights into how different teams and strategies have evolved over the years. 
 It highlights the critical role of toss decisions and venue performance, while also celebrating the standout players and title-winning teams.
 
-Special thanks to Data Tutorial for his guidance and support throughout this project.
+Special thanks to #Data Tutorial for his guidance and support throughout this project.
 
 #Excel #DataAnalysis #IPL #Dashboard #DataVisualization# IPL-Indian-Premier-League-analysis-
